@@ -1,1 +1,1 @@
-# Minesweeper-game
+This is Minesweeper game! In this game you need to uncover all safe cells or flag all cells with mines. You can choose from 3 different difficulty options. Enjoy the game!
